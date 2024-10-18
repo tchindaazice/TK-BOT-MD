@@ -59,15 +59,15 @@ let infoMsg =  `
 ╭─────═━┈┈━═──━┈⊷
   『𝐒𝐔𝐏𝐏𝐎𝐑𝐓』
   ♾️ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ
-  https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+  https://chat.whatsapp.com/EgM3fy5URew8i1N7JhOWwJ
   ♾️ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ
-  https://t.me/ibrahimtechai
+  https://t.me/01JoelBotMd
   ♾️ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ
-  https://www.youtube.com/@ibrahimaitech
+  https://chat.whatsapp.com/Bwq63oMCNbq9hWsSszrkkM
   ♾️ ɪɴsᴛᴀɢʀᴀᴍ ᴘᴀɢᴇ
-  https://www.instagram.com/ibrahimadamstech
+  https://chat.whatsapp.com/IjldVQJuynCILEPesEm2ic
 ╰─────═━┈┈━═──━┈⊷
-> ©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔\n\n`;
+> ©Joel\n\n`;
     
     
 let menuMsg = `
@@ -92,7 +92,7 @@ for (const cat in coms) {
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-©𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
+©joel 𝑷𝒓𝒐𝒋𝒆𝒄𝒕
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
